@@ -1,0 +1,12 @@
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\bin\Debug\net5.0\Dapper.Shared.deps.json
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\bin\Debug\net5.0\Dapper.Shared.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\bin\Debug\net5.0\ref\Dapper.Shared.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\bin\Debug\net5.0\Dapper.Shared.pdb
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\obj\Debug\net5.0\Dapper.Shared.csprojAssemblyReference.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\obj\Debug\net5.0\Dapper.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\obj\Debug\net5.0\Dapper.Shared.AssemblyInfoInputs.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\obj\Debug\net5.0\Dapper.Shared.AssemblyInfo.cs
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\obj\Debug\net5.0\Dapper.Shared.csproj.CoreCompileInputs.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\obj\Debug\net5.0\Dapper.Shared.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\obj\Debug\net5.0\ref\Dapper.Shared.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.shared\obj\Debug\net5.0\Dapper.Shared.pdb

@@ -1,0 +1,17 @@
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\bin\Debug\net5.0\Dapper.Infra.deps.json
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\bin\Debug\net5.0\Dapper.Infra.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\bin\Debug\net5.0\ref\Dapper.Infra.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\bin\Debug\net5.0\Dapper.Infra.pdb
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\bin\Debug\net5.0\Dapper.Domain.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\bin\Debug\net5.0\Dapper.Shared.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\bin\Debug\net5.0\Dapper.Domain.pdb
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\bin\Debug\net5.0\Dapper.Shared.pdb
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\Dapper.Infra.csprojAssemblyReference.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\Dapper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\Dapper.Infra.AssemblyInfoInputs.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\Dapper.Infra.AssemblyInfo.cs
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\Dapper.Infra.csproj.CoreCompileInputs.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\Dapper.Infra.csproj.CopyComplete
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\Dapper.Infra.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\ref\Dapper.Infra.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Infra\obj\Debug\net5.0\Dapper.Infra.pdb

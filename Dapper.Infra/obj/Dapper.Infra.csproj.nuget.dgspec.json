@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Infra\\Dapper.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj",
+        "projectName": "Dapper.Domain",
+        "projectPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj",
+        "packagesPath": "C:\\Users\\giare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\giare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://carina.sabemi.com.br/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.shared\\Dapper.Shared.csproj": {
+                "projectPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.shared\\Dapper.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Infra\\Dapper.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Infra\\Dapper.Infra.csproj",
+        "projectName": "Dapper.Infra",
+        "projectPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Infra\\Dapper.Infra.csproj",
+        "packagesPath": "C:\\Users\\giare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\giare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://carina.sabemi.com.br/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj": {
+                "projectPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj"
+              },
+              "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.shared\\Dapper.Shared.csproj": {
+                "projectPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.shared\\Dapper.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.shared\\Dapper.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.shared\\Dapper.Shared.csproj",
+        "projectName": "Dapper.Shared",
+        "projectPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.shared\\Dapper.Shared.csproj",
+        "packagesPath": "C:\\Users\\giare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giare\\Documents\\Estudos\\Dapper\\Dapper.shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\giare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://carina.sabemi.com.br/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.deps.json
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\bin\Debug\net5.0\ref\Dapper.Domain.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.pdb
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\bin\Debug\net5.0\Dapper.Shared.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\bin\Debug\net5.0\Dapper.Shared.pdb
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.csprojAssemblyReference.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.AssemblyInfoInputs.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.AssemblyInfo.cs
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.csproj.CopyComplete
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\ref\Dapper.Domain.dll
+C:\Users\giare\Documents\Estudos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.pdb
